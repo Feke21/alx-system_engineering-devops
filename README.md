@@ -1,8 +1,8 @@
-# Title!
+# Title
 ALX System Engineering Devops   
-# Description!
+# Description
 This repository is my first ALX repository on systems engineering. It involves Devops, shell and bash.
-# Contents!
+# Contents
 Two folders:
 Shell Basics
 Shell Permissions

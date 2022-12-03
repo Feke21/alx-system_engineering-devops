@@ -1,7 +1,7 @@
 # Title
 Shell Permissions
 # Description
-This project is also about learning to crete scripts. The scripts focus on how to allow permissions in shell.
+This project is also about learning to create scripts. The scripts focus on how to allow permissions in shell.
 # Content
  # Mandatory Tasks
 0. 0-iam_ betty: This creates a script that switches the current user to the user betty.

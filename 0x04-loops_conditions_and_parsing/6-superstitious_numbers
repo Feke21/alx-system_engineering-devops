@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+#displays numbers from 1 to 20 and for 5th, 10th and 18th iteration,
+#replace with 'bad luck from china', 'bad luck from japan'
+#and 'bad luck from italy' respectively
+
+i=1
+while [ $i -le 20 ]
+do
+	echo $i
+
+	case $i in
+		4) echo "bad luck from China";;
+		9) echo "bad luck from Japan";;
+		17) echo "bad luck from Italy";;
+	esac
+	((i++))
+done 
